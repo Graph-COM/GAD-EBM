@@ -1,6 +1,6 @@
 <h1 align="center">GAD-EBM: Graph Anomaly Detection<br> using Energy-Based Models</h1>
 
-This repository contains the PyTorch implementation of the NeurIPS 2023 New Frontiers in Graph Learning (GLFrontiers) workshop paper "GAD-EBM: Graph Anomaly Detection using Energy-Based Models" by Amit Roy, Juan Shu, Olivier Elshocht, Jeroen Smeets, Ruqi Zhang and Pan Li.
+This repository contains the PyTorch implementation of the NeurIPS 2023 New Frontiers in Graph Learning (GLFrontiers) workshop paper "GAD-EBM: Graph Anomaly Detection using Energy-Based Models" by [Amit Roy](https://amitroy7781.github.io/), Juan Shu, Olivier Elshocht, Jeroen Smeets, Ruqi Zhang and Pan Li.
 
 ## Abstract
 <p align="justify">
