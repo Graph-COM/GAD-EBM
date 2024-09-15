@@ -94,11 +94,15 @@ To run **GAD-EBM** on the DGraph dataset, please download the DGraphFin dataset 
 If you find our paper and repo useful, please cite our paper:
 
 ```bibtex
-@inproceedings{Roy2023gadnr,
-  title  = {GAD-EBM: Graph Anomaly Detection using Energy-Based Models},
-  author = {Roy, Amit and Shu, Juan and Li, Olivier and Smeets, Jeroen and Zhang, Ruqi and Li, Pan},
-  booktitle={New Frontiers in Graph Learning (GLFrontiers), NeurIPS Workshop 2023},
-  year   = {2023}
+@inproceedings{roy2023gad,
+  title={GAD-EBM: Graph Anomaly Detection using Energy-Based Models},
+  author={Roy, Amit and Shu, Juan and Elshocht, Olivier and Smeets, Jeroen and Zhang, Ruqi and Li, Pan},
+  booktitle={NeurIPS 2023 Workshop: New Frontiers in Graph Learning},
+  year={2023}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Graph-COM/GAD-EBM&type=Date)](https://star-history.com/#Graph-COM/GAD-EBM&Date)
 
